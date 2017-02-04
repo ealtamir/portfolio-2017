@@ -58,7 +58,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/fitz_roy.min.png) no-repeat center center;
+    background: url(../img/chalten_edit.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -74,7 +74,7 @@ h6 {
     font-size: 5em;
   }
   h1, h3 {
-    @include stroke(2, #34495e);
+    @include stroke(1, #34495e);
   }
 }
 
