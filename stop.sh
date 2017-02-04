@@ -2,3 +2,4 @@
 
 kill -s INT `cat pid`
 rm nohup.out
+rm pid
