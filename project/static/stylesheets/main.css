@@ -1,0 +1,22 @@
+/* line 2, ../sass/main.scss */
+html, body {
+  height: 100%;
+  background-color: #2c3e50;
+  font-weight: 300;
+  /* size: 62.5%; /* 1em = 10px */
+  font-size: 100%;
+  /* family: "Open Sans", "Helvetica Neue", "Helvetica",Arial,Verdana,sans-serif; */
+  font-font-family: 'Open Sans',"Helvetica Neue", "Helvetica",Arial,Verdana, sans-serif;
+}
+
+/* line 13, ../sass/main.scss */
+h1, h2, h3, h4, h5, h6, p {
+  color: #ecf0f1;
+}
+
+/* line 18, ../sass/main.scss */
+#main-img img {
+  max-width: auto;
+  max-height: 100vh;
+  display: block;
+}

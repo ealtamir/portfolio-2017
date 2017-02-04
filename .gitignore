@@ -1,0 +1,6 @@
+portfolio
+__pycache__
+__init__.py
+.sass-cache
+.idea
+.DS_Store
